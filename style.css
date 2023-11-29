@@ -54,6 +54,10 @@ nav > ul >li >a{
  color: #000;
  text-decoration: none;
 }
+nav > ul >li >a:hover{
+    color: rgb(138, 64, 11);
+    border: 2px solid rgb(167, 128, 56);
+}
 .container {
     max-width: 1000px;
     width: 100%;
